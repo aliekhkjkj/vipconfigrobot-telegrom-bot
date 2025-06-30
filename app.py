@@ -18,7 +18,7 @@ import pytz # برای کار با منطقه زمانی ایران
 BOT_TOKEN = os.environ.get("BOT_TOKEN")
 
 # شناسه عددی اکانت ادمین برای دریافت رسیدها
-ADMIN_CHAT_ID = 6063054006
+ADMIN_CHAT_ID = 7968166905
 
 # شماره کارت و نام صاحب حساب
 CARD_NUMBER = "6219-8619-4829-7832"
